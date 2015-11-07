@@ -11,6 +11,8 @@ public class UserAttempts {
 	private int attempts;
 
 	private Date lastModified;
+	
+	private Date createdOn;
 
 	public int getId() {
 		return id;
